@@ -1,0 +1,14 @@
+Manual - Star Wars Tie Fighter
+
+
+När programmet startas kommer det upp 2 knappar på skärmen: 
+
+Knapp 1 = Fly 
+
+När knapp 1 trycks ner spelas ljudet av en Tie Fighter flyga.
+
+Knapp 2 = Fire 
+
+När knappen 2 trycks ner spelas ljudet när en Tie Fighter skjuter.
+
+Man kan kombinera knapparna genom att klicka på knapp 1 och dirrekt klicka på knapp 2 så låter det som att en Tie Fighter flyger och skjuter samtidigt.
